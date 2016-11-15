@@ -1,0 +1,14 @@
+.body {
+  height: 80%;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 2% 5%;
+}
+
+.bodyPanel {
+	height: 100%;
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2%;
+}

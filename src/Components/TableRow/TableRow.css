@@ -1,0 +1,16 @@
+.tableRowWrapper {
+	height: 10%;
+	width: 100%;
+	text-align: center;
+	padding-top: 1%;
+}
+
+.smallData {
+	width: 20%;
+	float: left;
+}
+
+.longData {
+	width: 40%;
+	float: left;
+}

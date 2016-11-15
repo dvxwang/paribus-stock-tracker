@@ -1,0 +1,19 @@
+.tableHeaderWrapper {
+	height: 10%;
+	width: 100%;
+	border-bottom: thin solid #00BAD7;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 1%;
+	box-sizing: border-box;
+}
+
+.smallData {
+	width: 20%;
+	float: left;
+}
+
+.longData {
+	width: 40%;
+	float: left;
+}

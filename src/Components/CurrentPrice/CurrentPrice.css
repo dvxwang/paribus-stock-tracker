@@ -1,0 +1,36 @@
+.currentPriceWrapper {
+	height: 20%;
+	width: 100%;
+	box-sizing: border-box;
+	text-align: center;
+	border: medium solid #00BAD7;
+	border-radius: 25px;
+}
+
+.stockHeader {
+	width: 40%;
+	height: 100%;
+	box-sizing: border-box;
+	border-right: thin solid #00BAD7;
+	padding-top: 4%;
+	float: left;
+	font-size: 5vh;
+	text-align: center;
+}
+
+.priceTitle {
+	width: 60%;
+	height: 20%;
+	box-sizing: border-box;
+	padding-top: 1%;
+	float: left;
+}
+
+.currentPrice {
+	width: 60%;
+	height: 80%;
+	box-sizing: border-box;
+	padding-top: 3%;
+	float: left;
+	font-size: 5vh;
+}

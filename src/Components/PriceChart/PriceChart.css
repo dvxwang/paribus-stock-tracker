@@ -1,0 +1,8 @@
+.priceChartWrapper {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	border: medium solid #00BAD7;
+	border-radius: 25px;
+	overflow: auto;
+}
